@@ -1,0 +1,2 @@
+J'essaie d'écrire avec PrintWriter
+Dieu sait si j'ai réussi... accents : ê, é, è, â, ù, ï, à, ç
